@@ -4,5 +4,5 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Question extends Post {
-	private List<Answer> answer = new ArrayList<>();
+	private List<Answer> answerz = new ArrayList<>();
 }
